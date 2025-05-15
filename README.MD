@@ -34,7 +34,6 @@ pip install -r requirements.txt
 ```
 
 ## Running the Pipeline
-
 To run the ETL pipeline, execute the following command:
 ```
 python main.py
