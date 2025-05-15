@@ -22,6 +22,7 @@ project_root/
 └── submission.txt
 
 ## Installation
+
 1. Clone the repository:
 ```
 git clone https://github.com/totoro-07/Etl-Dicoding.git
@@ -35,6 +36,7 @@ pip install -r requirements.txt
 ```
 
 ## Running the Pipeline
+
 To run the ETL pipeline, execute the following command:
 ```
 python main.py
