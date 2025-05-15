@@ -19,11 +19,11 @@ project_root/
 ├── main.py
 ├── products.csv
 └── requirements.txt
-└── submission.txt
+└── submission.txt```
 
 ## Installation
 1. Clone the repository:
-'''git clone https://github.com/totoro-07/Etl-Dicoding.git
+git clone https://github.com/totoro-07/Etl-Dicoding.git
 cd etl-pipeline'''
 
 2. Install the required packages:
