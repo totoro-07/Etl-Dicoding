@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "dicodingproject-397716",
+  "private_key_id": "6d26fd90664b62f03bda2d775b62b6bcc48d63e1",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC9+Go1Tx2NZHxD\nM5vhuGWGn6xo5hYuAdxuRt9gUJxgPgKYD1CGfqHnTum33ALWLaPQjhLQLUydRfPc\nwgTxrr+dCfqIKl4AduPfNUCtTlkog9ehYDKEkEjwL6Pu+TXvvYNaxdXWewRvJ6W0\no5ws80T5nBPftXD13HIm3yc5XsT4xCM4g3dAfqH+1qL6vRVkxY9LA1tJ80YWscrB\nU6+224JDXwMRlwglJqFJsa28N9uK1Is0edQOJtTiN1Uzk8kBVeV0lcF8WAGyxMut\n72bD/RZEntkqfjJ3gKXl3SEmkbYnTsZwU05SnOgX0LMbifqmSwTNAMZtwCLTDvbw\nJXJ14vMpAgMBAAECggEAEqTXCJcUhYhFfUNrAqi6Fw+j6DIfnmGKoIyGVvGmXTgs\nwT9shdyW92hqXePi5+H4DCtrW4C8nolLXQCyI0WFEuyUKMmuqtFAPStg5vlT3Pru\nfk0efB3ceK0WQ8lzwoz4/58/pLJzTZToqX0uokc4P16S4T9RgCGj1t6K/xGG14qd\nxHOyXeIRtCC7op/C2MLjvlzunSPw7AG6bJz4aGFnZzJofjeBXnrLPrbiesiXM4iu\nriTVO0rvI+pqSvibuDErDwszf7BE3yvAYT3EPxOfiiwb39tekPj6Ane2of3haEAf\nxoug/zz6RTcCFBWMijHgg7bgvZlmFdz0fJoXgfAawQKBgQD2W25aE6cBG6guQasD\nQIsqJ64JqT3KdYCyZ4mHc+m4uTZU+ieh/RVuDM1HrJl6q+/M63AtVJhfnbtm5g2q\nxmvbJ7uhf9o8lI+ioIJkVeoOQHBHa5QGd68NSdmXpCi5+4C/VU9ErEYlYufLAuiU\nVwVVStEC7mWf2gqshAAQhvNi6QKBgQDFZ/jgeWshX+cgLLvSVBSQNBPuMfGBqWUZ\nT/KqKRc9SMCQ5Fg8aPep0SN/JPRgLdwh82xvK+Z+B6ZdvgreilK+ZQ+jANBlZGSm\n3HQwcSyTDpldlPlPPr0YDUuy4AxXKuxFZgQcUnPlJwU0NqLMN6SqBvWo67abBcBw\njN6x+n5mQQKBgQCMQBUc1t9WtCYU33G6Uj5n61sbSOxSnH5+Eo+rO4Qtk9OooRl7\nERfoJQWg7lQaEFRetxKP2/87QBL2S7YwKPIyO/aHxL+7iWAUV4ikEn1DS9Af+NC2\nteBEkmx79grxhosPYkPUdrcghaQsYSWDfd8dZZCEOLBGRt2YxTU8M3fQMQKBgDwP\n2mVSDApnh4b+lVb1Rhxp+/ZpM7XjuGLvNEIZpnx6+jwbfc1DkrcUbtxsff4VdfjO\ne5uHm+WUpkW3YM88/tf3H77UrJNs7ELoqGFkzc8gjgEvJnu59wauZO3TxW1wHdsv\nouiLHcAHE0pDpVzFQVCKNYxjy3d3VInqEofMU1EBAoGAQwb04eX5L5wKk1P0H4Oo\n4MGgP2Zi5lyOIGrcIOVMYRkgCn/COowZoNYx7XTkdrrw3vZ9ic013CqJX21dGwBD\nAs3nQz1LAWCMNCPon6NGRaKxYEQlCPMJJ5EZCqgh/7/FZbN+q5vZk3lXvNAqMoLj\nypxeNVWMORyMTcBUw4+unWg=\n-----END PRIVATE KEY-----\n",
+  "client_email": "etl-01@dicodingproject-397716.iam.gserviceaccount.com",
+  "client_id": "115316682184293821167",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/etl-01%40dicodingproject-397716.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
