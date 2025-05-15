@@ -24,12 +24,10 @@ project_root/
 
 ## Installation
 ```
-#1. Clone the repository:
 git clone https://github.com/totoro-07/Etl-Dicoding.git
 cd etl-pipeline
 ```
 
-2. Install the required packages:
 ```
 pip install -r requirements.txt
 ```
